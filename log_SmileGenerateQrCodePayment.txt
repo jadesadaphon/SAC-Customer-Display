@@ -1,0 +1,11 @@
+[2025-04-30 15:32:56,210] [root] [MainThread] INFO - HookSmile class is __init__
+[2025-04-30 15:32:56,211] [root] [HookThread] INFO - HookSmile class is running.
+[2025-04-30 15:33:09,986] [root] [MainThread] INFO - HookSmile class is __init__
+[2025-04-30 15:33:09,988] [root] [HookThread] INFO - HookSmile class is running.
+[2025-04-30 15:33:23,871] [root] [MainThread] INFO - HookSmile class is __init__
+[2025-04-30 15:33:23,874] [root] [HookThread] INFO - HookSmile class is running.
+[2025-04-30 15:33:34,125] [root] [MainThread] INFO - HookSmile class is __init__
+[2025-04-30 15:33:34,127] [root] [HookThread] INFO - HookSmile class is running.
+[2025-04-30 15:54:45,932] [root] [MainThread] INFO - HookSmile class is __init__
+[2025-04-30 15:54:45,934] [root] [HookThread] INFO - HookSmile class is running.
+[2025-04-30 15:55:55,886] [root] [HookThread] INFO - New payment QR code for 136.00 baht saved as _internal/static\20250430155555.png

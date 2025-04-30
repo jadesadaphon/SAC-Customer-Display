@@ -1,0 +1,15 @@
+colorama==0.4.6
+crcmod==1.7
+customtkinter==5.2.2
+darkdetect==0.8.0
+numpy==2.2.4
+opencv-python==4.11.0.86
+packaging==24.2
+pillow==11.2.1
+pynput==1.8.1
+pytesseract==0.3.13
+pywin32==310
+pywin32-ctypes==0.2.3
+qrcode==8.1
+screeninfo==0.8.1
+six==1.17.0
